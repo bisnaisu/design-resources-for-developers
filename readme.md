@@ -7,6 +7,7 @@
 - [Fonts](#fonts)
 - [Colors](#colors)
 - [Icons](#icons)
+- [Rgba](#rgba)
 - [Logos](#logos)
 - [Favicons](#favicons)
 - [Icon Fonts](#icon-fonts)
